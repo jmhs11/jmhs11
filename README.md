@@ -48,7 +48,7 @@
 
 <p align="center">
     <a href="https://app.daily.dev/jmhs11">
-        <img src="https://api.daily.dev/devcards/3255e0805d624f87b89255ce93ef29fe.png?r=36u" width="400" alt="Jose Maria Herrero's Dev Card"/>
+        <img src="https://github.com/jmhs11/jmhs11/blob/main/devcard.svg" width="400" alt="Jose Maria Herrero's Dev Card"/>
     </a>
 </p>
 
